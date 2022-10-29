@@ -12,4 +12,6 @@
 
 - 🤔 提问&问答：<a href="https://www.zhihu.com/people/zehuiya" target="_blank">知乎@泽辉呀</a> | <a href="https://shortvar.com" target="_blank">短变量@泽辉呀</a>
 
-- 📗 博客&分享：<a href="https://blog.csdn.net/zehuiya" target="_blank">CSDN</a> | <a href="https://shortvar.com" target="_blank">短变量</a> | 
+- 📗 博客&分享：<a href="https://blog.csdn.net/zehuiya" target="_blank">CSDN</a> | <a href="https://shortvar.com" target="_blank">短变量</a>
+
+- 💪 技能栈：Golang、JavaScript、Python、C++、MySQL
